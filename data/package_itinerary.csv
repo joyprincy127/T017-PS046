@@ -1,0 +1,66 @@
+package_id,day_no,component_type,component_id,notes
+PKG-01,1,HOTEL,HTL-01,night of day 1
+PKG-01,1,VEHICLE,AUTO,type sized by seated pax
+PKG-01,1,GUIDE,GUIDE,
+PKG-01,1,MEAL,MEAL-01,
+PKG-01,1,ACTIVITY,ACT-01,
+PKG-01,2,HOTEL,HTL-04,night of day 2
+PKG-01,2,VEHICLE,AUTO,type sized by seated pax
+PKG-01,2,GUIDE,GUIDE,
+PKG-01,2,MEAL,MEAL-01,
+PKG-01,2,ACTIVITY,ACT-02,
+PKG-01,3,HOTEL,HTL-04,night of day 3
+PKG-01,3,VEHICLE,AUTO,type sized by seated pax
+PKG-01,3,GUIDE,GUIDE,
+PKG-01,3,MEAL,MEAL-01,
+PKG-01,3,ACTIVITY,ACT-03,
+PKG-01,4,HOTEL,HTL-09,night of day 4
+PKG-01,4,VEHICLE,AUTO,type sized by seated pax
+PKG-01,4,GUIDE,GUIDE,
+PKG-01,4,MEAL,MEAL-01,
+PKG-01,4,ACTIVITY,ACT-04,
+PKG-01,5,VEHICLE,AUTO,type sized by seated pax
+PKG-02,1,HOTEL,HTL-11,night of day 1
+PKG-02,1,VEHICLE,AUTO,type sized by seated pax
+PKG-02,1,GUIDE,GUIDE,
+PKG-02,1,MEAL,MEAL-02,
+PKG-02,1,ACTIVITY,ACT-05,
+PKG-02,2,HOTEL,HTL-11,night of day 2
+PKG-02,2,VEHICLE,AUTO,type sized by seated pax
+PKG-02,2,GUIDE,GUIDE,
+PKG-02,2,MEAL,MEAL-02,
+PKG-02,2,ACTIVITY,ACT-06,
+PKG-02,3,HOTEL,HTL-15,night of day 3
+PKG-02,3,VEHICLE,AUTO,type sized by seated pax
+PKG-02,3,GUIDE,GUIDE,
+PKG-02,3,MEAL,MEAL-02,
+PKG-02,4,HOTEL,HTL-16,night of day 4
+PKG-02,4,VEHICLE,AUTO,type sized by seated pax
+PKG-02,4,GUIDE,GUIDE,
+PKG-02,4,MEAL,MEAL-02,
+PKG-02,4,ACTIVITY,ACT-07,
+PKG-02,5,HOTEL,HTL-19,night of day 5
+PKG-02,5,VEHICLE,AUTO,type sized by seated pax
+PKG-02,5,MEAL,MEAL-02,
+PKG-02,6,HOTEL,HTL-19,night of day 6
+PKG-02,6,VEHICLE,AUTO,type sized by seated pax
+PKG-02,6,GUIDE,GUIDE,
+PKG-02,6,MEAL,MEAL-02,
+PKG-02,6,ACTIVITY,ACT-08,
+PKG-02,7,VEHICLE,AUTO,type sized by seated pax
+PKG-03,1,HOTEL,HTL-22,night of day 1
+PKG-03,1,VEHICLE,AUTO,type sized by seated pax
+PKG-03,1,GUIDE,GUIDE,
+PKG-03,1,MEAL,MEAL-03,
+PKG-03,1,ACTIVITY,ACT-10,
+PKG-03,2,HOTEL,HTL-22,night of day 2
+PKG-03,2,VEHICLE,AUTO,type sized by seated pax
+PKG-03,2,GUIDE,GUIDE,
+PKG-03,2,MEAL,MEAL-03,
+PKG-03,2,ACTIVITY,ACT-09,
+PKG-03,3,HOTEL,HTL-22,night of day 3
+PKG-03,3,VEHICLE,AUTO,type sized by seated pax
+PKG-03,3,MEAL,MEAL-03,
+PKG-03,3,ACTIVITY,ACT-11,
+PKG-03,3,ACTIVITY,ACT-12,
+PKG-03,4,VEHICLE,AUTO,type sized by seated pax

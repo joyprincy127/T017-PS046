@@ -1,0 +1,5 @@
+vehicle_type,min_pax,max_pax,cost_per_day,currency
+SEDAN,1,4,3500.00,INR
+INNOVA,5,7,5000.00,INR
+TEMPO,8,12,7500.00,INR
+MINIBUS,13,20,11000.00,INR

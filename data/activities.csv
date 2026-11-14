@@ -1,0 +1,13 @@
+activity_id,activity_name,city,cost_per_person,currency,min_age
+ACT-01,Kathakali evening show,Kochi,600.00,INR,5
+ACT-02,Tea plantation walk,Munnar,900.00,INR,0
+ACT-03,Munnar zipline,Munnar,1500.00,INR,10
+ACT-04,Backwater shikara cruise,Alleppey,2000.00,INR,0
+ACT-05,Amber Fort jeep ride,Jaipur,800.00,INR,0
+ACT-06,Hot air balloon flight,Jaipur,12000.00,INR,8
+ACT-07,Desert camel safari,Jaisalmer,1800.00,INR,6
+ACT-08,Lake Pichola boat ride,Udaipur,700.00,INR,0
+ACT-09,Desert safari with BBQ,Dubai,65.00,USD,3
+ACT-10,Burj Khalifa At The Top,Dubai,45.00,USD,0
+ACT-11,Marina dhow dinner cruise,Dubai,55.00,USD,0
+ACT-12,Tandem skydive Palm,Dubai,520.00,USD,18

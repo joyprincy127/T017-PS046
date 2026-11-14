@@ -1,0 +1,4 @@
+meal_id,description,adult_cost_per_day,child_5_11_cost_per_day,child_under_5_cost_per_day,currency
+MEAL-01,"Breakfast + dinner (MAP), Kerala",800.00,500.00,0.00,INR
+MEAL-02,"Breakfast + dinner (MAP), Rajasthan",900.00,550.00,0.00,INR
+MEAL-03,"Breakfast + dinner (MAP), Dubai",30.00,18.00,0.00,USD

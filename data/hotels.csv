@@ -1,0 +1,26 @@
+hotel_id,hotel_name,city,star_rating,standard_twin_room_cost,deluxe_twin_room_cost,currency
+HTL-01,Marine Drive Residency,Kochi,4,3800.00,5200.00,INR
+HTL-02,Fort Heritage Inn,Kochi,3,3000.00,4100.00,INR
+HTL-03,Willingdon Bay Hotel,Kochi,5,6500.00,8800.00,INR
+HTL-04,Tea Valley Resort,Munnar,4,4200.00,5600.00,INR
+HTL-05,Misty Hills Retreat,Munnar,3,3200.00,4300.00,INR
+HTL-06,Kannan Devan Clubhouse,Munnar,5,7200.00,9500.00,INR
+HTL-07,Periyar Spice Village,Thekkady,4,4500.00,6000.00,INR
+HTL-08,Cardamom County,Thekkady,3,3100.00,4200.00,INR
+HTL-09,Vembanad Houseboat Stay,Alleppey,4,3900.00,5400.00,INR
+HTL-10,Lakeside Kayal Resort,Alleppey,3,3300.00,4400.00,INR
+HTL-11,Pink City Palace,Jaipur,4,4600.00,6200.00,INR
+HTL-12,Amer View Haveli,Jaipur,3,3400.00,4500.00,INR
+HTL-13,Rambagh Court,Jaipur,5,9000.00,12500.00,INR
+HTL-14,Blue City Inn,Jodhpur,3,3200.00,4300.00,INR
+HTL-15,Mehrangarh Heights,Jodhpur,4,4800.00,6400.00,INR
+HTL-16,Golden Dunes Camp,Jaisalmer,3,3600.00,4800.00,INR
+HTL-17,Sonar Qila Retreat,Jaisalmer,4,5000.00,6800.00,INR
+HTL-18,Lake Pichola Palace,Udaipur,5,9500.00,13000.00,INR
+HTL-19,Fateh Sagar Residency,Udaipur,4,5200.00,7000.00,INR
+HTL-20,City of Lakes Inn,Udaipur,3,3500.00,4700.00,INR
+HTL-21,Creekside Deira Hotel,Dubai,3,85.00,115.00,USD
+HTL-22,Marina Pearl Suites,Dubai,4,140.00,185.00,USD
+HTL-23,Jumeirah Palm Residence,Dubai,5,260.00,340.00,USD
+HTL-24,Bur Dubai Grand,Dubai,3,95.00,125.00,USD
+HTL-25,Downtown Boulevard Hotel,Dubai,4,150.00,200.00,USD

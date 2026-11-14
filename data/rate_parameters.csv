@@ -1,0 +1,11 @@
+param,value,unit,notes
+GUIDE_DAY_UPTO_8,2500.00,per_day,guide day rate when paying travellers <= 8
+GUIDE_DAY_ABOVE_8,4000.00,per_day,guide day rate when paying travellers > 8
+CHILD_MINDING,500.00,per_activity,per skipped child when both parents are on the activity
+DATE_SHIFT_FEE,1000.00,per_traveller,date shift of up to 7 days
+SINGLE_SUPPLEMENT_PCT,60,percent,of twin per-person room cost
+EXTRA_BED_CHILD_PCT,40,percent,of room cost
+THIRD_ADULT_PCT,75,percent,of per-person room cost
+MARKUP_PCT,18,percent,on total cost before discounts
+GST_PCT,5,percent,on sell price
+FX_BUFFER_PCT,2,percent,added to the quote-date USD rate
