@@ -1,0 +1,17 @@
+line_no,quote_id,command,status,old_total_sell,new_total_sell,difference,change_fee,cancellation_charge,reason
+9,Q-001,DATE_SHIFT,APPLIED,247312.92,247312.92,0.00,4000.00,0.00,Date shift by 7 days (<= 7 days)
+14,Q-007,REMOVE_TRAVELLER,REJECTED,306265.93,306265.93,0.00,0.00,0.00,Traveller TRV-0063 does not belong to quote Q-007
+16,Q-004,ADD_TRAVELLER,APPLIED,887194.16,936408.82,49214.66,0.00,0.00,Added traveller TRV-0218
+20,Q-014,CANCEL,APPLIED,344539.14,0.00,-344539.14,0.00,86134.78,Booking cancelled 30 days before departure (25%)
+21,Q-013,CANCEL,APPLIED,291849.04,0.00,-291849.04,0.00,145924.52,Booking cancelled 15 days before departure (50%)
+22,Q-003,REMOVE_TRAVELLER,APPLIED,703912.82,664293.32,-39619.50,0.00,23595.00,Removed traveller TRV-0028 (50% charge)
+24,Q-012,CANCEL,APPLIED,453458.51,0.00,-453458.51,0.00,45345.85,Booking cancelled 50 days before departure (10%)
+26,Q-006,DATE_SHIFT,APPLIED,172795.53,172795.53,0.00,2000.00,0.00,Date shift by 3 days (<= 7 days)
+28,Q-002,DATE_SHIFT,APPLIED,1118291.64,1118291.64,0.00,0.00,559145.82,Date shift by 8 days (> 7 days treated as cancellation 50% and rebooking)
+31,Q-016,ADD_TRAVELLER,APPLIED,151015.52,167329.43,16313.91,0.00,0.00,Added traveller TRV-0217
+32,Q-019,QUOTE,REJECTED,575546.48,575546.48,0.00,0.00,0.00,Quote Q-019 already exists
+33,Q-005,ROOM_CHANGE,APPLIED,112779.73,128373.29,15593.56,0.00,0.00,Room preference changed to DELUXE
+43,Q-021,CANCEL,APPLIED,247923.90,0.00,-247923.90,0.00,61980.98,Booking cancelled 45 days before departure (25%)
+45,Q-026,REMOVE_TRAVELLER,APPLIED,240861.60,240800.89,-60.71,0.00,6022.50,Removed traveller TRV-0185 (25% charge)
+47,Q-018,CANCEL,APPLIED,358310.90,0.00,-358310.90,0.00,358310.90,Booking cancelled 10 days before departure (100%)
+48,Q-025,ROOM_CHANGE,APPLIED,334450.97,354334.75,19883.78,0.00,0.00,Room preference changed to DELUXE
