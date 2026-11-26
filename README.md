@@ -76,7 +76,7 @@ The input data files, their column definitions, command syntax, and supplied edg
 
 ## Demo video
 
-**Demo video link:** Add the final 5-minute demonstration URL here after recording and uploading the video.
+**Demo video link: https://drive.google.com/file/d/1YAiIyVWJlGRb7_TY1lObMixGDhl9o84I/view?usp=drivesdk
 
 ## Team
 
