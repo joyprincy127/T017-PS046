@@ -216,3 +216,14 @@ python main.py
 python -m unittest tests.test_engine -v
 ```
 Everything will regenerate cleanly in under 2 seconds.
+
+
+## Recording checklist (target: 5 minutes)
+
+- [ ] Introduce Team T017, PS-046, and the project problem.
+- [ ] Show the repository structure and CSV-driven inputs.
+- [ ] Run `python main.py` and explain the command processing briefly.
+- [ ] Open the quote summary and traveller invoice outputs; point out pricing and reconciliation.
+- [ ] Run `python -m unittest tests.test_engine -v` and show the result.
+- [ ] End with the main value of the engine: repeatable pricing and auditable quote changes.
+- [ ] Upload the recording and replace the demo-link placeholder in `README.md`.
